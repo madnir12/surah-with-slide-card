@@ -1,13 +1,14 @@
 {
-  "main.css": "/surah-with-slide-card/static/css/main.be6b6583.chunk.css",
-  "main.js": "/surah-with-slide-card/static/js/main.cb31f989.chunk.js",
-  "main.js.map": "/surah-with-slide-card/static/js/main.cb31f989.chunk.js.map",
+  "main.css": "/surah-with-slide-card/static/css/main.2d5ee05c.chunk.css",
+  "main.js": "/surah-with-slide-card/static/js/main.4a2fc68e.chunk.js",
+  "main.js.map": "/surah-with-slide-card/static/js/main.4a2fc68e.chunk.js.map",
   "static/js/1.b5d6bb30.chunk.js": "/surah-with-slide-card/static/js/1.b5d6bb30.chunk.js",
   "static/js/1.b5d6bb30.chunk.js.map": "/surah-with-slide-card/static/js/1.b5d6bb30.chunk.js.map",
   "runtime~main.js": "/surah-with-slide-card/static/js/runtime~main.bbaa1166.js",
   "runtime~main.js.map": "/surah-with-slide-card/static/js/runtime~main.bbaa1166.js.map",
-  "static/css/main.be6b6583.chunk.css.map": "/surah-with-slide-card/static/css/main.be6b6583.chunk.css.map",
+  "static/media/index.css": "/surah-with-slide-card/static/media/Jameel Noori Nastaleeq 2.64250498.ttf",
+  "static/css/main.2d5ee05c.chunk.css.map": "/surah-with-slide-card/static/css/main.2d5ee05c.chunk.css.map",
   "index.html": "/surah-with-slide-card/index.html",
-  "precache-manifest.1261d0f5208f25d20833e419846d9d85.js": "/surah-with-slide-card/precache-manifest.1261d0f5208f25d20833e419846d9d85.js",
+  "precache-manifest.61045dcd1dfae10edf878dc617e00baa.js": "/surah-with-slide-card/precache-manifest.61045dcd1dfae10edf878dc617e00baa.js",
   "service-worker.js": "/surah-with-slide-card/service-worker.js"
 }
