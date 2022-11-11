@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/surah-with-slide-card/precache-manifest.fa6efff6677f4ea4be92d27592fd095d.js"
+  "/surah-with-slide-card/precache-manifest.b5888cb54722842a8aafb67891ab630e.js"
 );
 
 workbox.clientsClaim();

@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "0cdfb9fc5d918b7e5fb7",
-    "url": "/surah-with-slide-card/static/css/main.a81a114d.chunk.css"
+    "revision": "af5523178725702f0bd6",
+    "url": "/surah-with-slide-card/static/css/main.544eff5e.chunk.css"
   },
   {
-    "revision": "0cdfb9fc5d918b7e5fb7",
-    "url": "/surah-with-slide-card/static/js/main.0cdfb9fc.chunk.js"
+    "revision": "af5523178725702f0bd6",
+    "url": "/surah-with-slide-card/static/js/main.af552317.chunk.js"
   },
   {
-    "revision": "b5d6bb306ac230515a90",
-    "url": "/surah-with-slide-card/static/js/1.b5d6bb30.chunk.js"
+    "revision": "f6d177f3fbd63533de92",
+    "url": "/surah-with-slide-card/static/js/1.f6d177f3.chunk.js"
   },
   {
     "revision": "bbaa116622f26d4638f3",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/surah-with-slide-card/static/media/Jameel Noori Nastaleeq 2.64250498.ttf"
   },
   {
-    "revision": "c2a3434d0e6110f3868aecbf1b59de87",
+    "revision": "d3b5d39927a895be27843faaaed4bc29",
     "url": "/surah-with-slide-card/index.html"
   }
 ];
